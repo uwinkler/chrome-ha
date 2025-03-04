@@ -35,7 +35,7 @@ Otherwise HA will not be shown in the iframe. Restart your HA server
 
 2. Enable development mode
 
-![Enabled dev mode](doc/03-enabled-dev.png)
+![Enabled dev mode](doc/03-enable-dev.png)
 
 3. Click "Load unpacked"
 

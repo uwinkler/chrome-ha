@@ -41,6 +41,8 @@ Otherwise HA will not be shown in the iframe. Restart your HA server
 
 ![Load unpacked](doc/03-load-extension.png)
 
+Find the extracted folder of the extension and open it.
+
 The extension should be loaded
 
 ![Loaded](doc/03-extension-loaded.png)

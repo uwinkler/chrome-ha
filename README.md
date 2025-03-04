@@ -41,8 +41,12 @@ Otherwise HA will not be shown in the iframe. Restart your HA server
 
 ![Load unpacked](doc/03-load-extension.png)
 
-4. Find you extension and pin it
+The extension should be loaded
 
-   ![Pin extension](doc/04-pin.png)
+![Loaded](doc/03-extension-loaded.png)
+
+Find you extension and pin it
+
+![Pin extension](doc/04-pin.png)
 
 ### That's it 🥳

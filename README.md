@@ -14,26 +14,24 @@ https://github.com/uwinkler/chrome-ha/archive/refs/heads/main.zip
 
 ### Adjust URL
 
-Edit `popup.html` and change the url of the iframe. It should point to your HA server.
+Edit `popup.html` and change the URL of the iframe. It should point to your Home Assistant server.
 
 ![Edit popup.htl](doc/02-url.png)
 
 ### Configure HA
 
-In home assistance: add this line to your `configuration.yml`:
+In Home Assistance, add this following line to your `configuration.yml`:
 
 ```yml
 http:
   use_x_frame_options: false
 ```
 
-Otherwise HA will not be shown in the iframe.
-
-Restart your HA server
+Otherwise HA will not be shown in the iframe. Restart your HA server
 
 ### Load and unpack the extension
 
-1. Got to `chrome://extensions`
+1. Go to `chrome://extensions`
 
 2. Click "Load unpacked"
 

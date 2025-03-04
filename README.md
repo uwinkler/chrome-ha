@@ -33,7 +33,11 @@ Otherwise HA will not be shown in the iframe. Restart your HA server
 
 1. Go to `chrome://extensions`
 
-2. Click "Load unpacked"
+2. Enable development mode
+
+![Enabled dev mode](doc/03-enabled-dev.png)
+
+3. Click "Load unpacked"
 
 ![Load unpacked](doc/03-load-extension.png)
 
